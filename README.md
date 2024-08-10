@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Yu-Gi-Oh! Card Explorer
+https://adriano549.github.io/API-yu-gi-oh/
 
 Este é um mini projeto de front-end que utiliza a API de Yu-Gi-Oh! para buscar e exibir cartas do famoso jogo de cartas colecionáveis. O projeto foi desenvolvido com o objetivo de demonstrar habilidades em integração com APIs, bem como a utilização de bibliotecas como React Query e Material-UI. Este projeto é parte do meu portfólio como desenvolvedor front-end júnior.
 
